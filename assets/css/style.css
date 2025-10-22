@@ -692,7 +692,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  padding: 40px 0 0 0;
+  padding: 60px 0 0 0;
 }
 
 .about .icon-boxes h3 {
@@ -755,7 +755,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/logo.png") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
